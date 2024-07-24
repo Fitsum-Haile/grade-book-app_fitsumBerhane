@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Introduction to Linux",
+        "trimester": "2",
+        "credits": 5
+    },
+    {
+        "name": "Introduction to Python",
+        "trimester": "2",
+        "credits": 5
+    },
+    {
+        "name": "Introduction to Database",
+        "trimester": "2",
+        "credits": 5
+    }
+]

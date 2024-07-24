@@ -1,0 +1,104 @@
+[
+    {
+        "email": "f.haile@alustudent.com",
+        "names": "Fitsum Berhane",
+        "GPA": 4.0,
+        "courses_registered": [
+            {
+                "course": {
+                    "name": "Introduction to Linux",
+                    "trimester": "2",
+                    "credits": 5
+                },
+                "grade": 4.0,
+                "credits": 5
+            },
+            {
+                "course": {
+                    "name": "Introduction to Python",
+                    "trimester": "2",
+                    "credits": 5
+                },
+                "grade": 4.0,
+                "credits": 5
+            },
+            {
+                "course": {
+                    "name": "Introduction to Database",
+                    "trimester": "2",
+                    "credits": 5
+                },
+                "grade": 4.0,
+                "credits": 5
+            }
+        ]
+    },
+    {
+        "email": "abel@alustudent.com",
+        "names": "Abel Samuel",
+        "GPA": 2.6666666666666665,
+        "courses_registered": [
+            {
+                "course": {
+                    "name": "Introduction to Linux",
+                    "trimester": "2",
+                    "credits": 5
+                },
+                "grade": 2.0,
+                "credits": 5
+            },
+            {
+                "course": {
+                    "name": "Introduction to Python",
+                    "trimester": "2",
+                    "credits": 5
+                },
+                "grade": 3.0,
+                "credits": 5
+            },
+            {
+                "course": {
+                    "name": "Introduction to Database",
+                    "trimester": "2",
+                    "credits": 5
+                },
+                "grade": 3.0,
+                "credits": 5
+            }
+        ]
+    },
+    {
+        "email": "daniel@alustudent.com",
+        "names": "Daniel Haile",
+        "GPA": 5.0,
+        "courses_registered": [
+            {
+                "course": {
+                    "name": "Introduction to Linux",
+                    "trimester": "2",
+                    "credits": 5
+                },
+                "grade": 5.0,
+                "credits": 5
+            },
+            {
+                "course": {
+                    "name": "Introduction to Python",
+                    "trimester": "2",
+                    "credits": 5
+                },
+                "grade": 5.0,
+                "credits": 5
+            },
+            {
+                "course": {
+                    "name": "Introduction to Database",
+                    "trimester": "2",
+                    "credits": 5
+                },
+                "grade": 5.0,
+                "credits": 5
+            }
+        ]
+    }
+]
