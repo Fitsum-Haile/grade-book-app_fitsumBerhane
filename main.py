@@ -137,7 +137,7 @@ def main():
             print()
             ranking = gradebook.calculate_ranking()
             for student in ranking:
-                print(f"Student: {student.names}, Email: {student.email}, GPA: {student.GPA}")
+                print(f"Student: {student.names}, Email: {student.email}, GPA: {student.GPA:.2f}")
             print()
 
         elif choice == '6':
@@ -148,7 +148,7 @@ def main():
             max_grade = get_valid_float("Enter maximum grade: ")
             students = gradebook.search_by_grade(min_grade, max_grade)
             for student in students:
-                print(f"Student: {student.names}, Email: {student.email}, GPA: {student.GPA}")
+                print(f"Student: {student.names}, Email: {student.email}, GPA: {student.GPA:.2f}")
             print()
 
         elif choice == '7':
