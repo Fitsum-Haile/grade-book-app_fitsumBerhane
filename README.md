@@ -34,7 +34,7 @@ README.md: Documentation file for the project.
 Installation
 
 Clone the Repository:
-git clone https://github.com/yourusername/grade-book-app.git
+git clone https://github.com/Fitsum-Haile/grade-book-app.git
 cd grade-book-app
 
 Install Dependencies:
